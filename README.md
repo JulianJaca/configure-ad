@@ -71,7 +71,7 @@ On azure set client-1's DNS settings to DC1's private IP. Client-1->network inte
 <br />
 
 <p>
-<img src="https://imgur.com/a/qaatETM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1KuVE5F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To start testing to see if this works we are going to use a code to create users and then login with 1. Open powershelLise as an administrator after that you can see I used the code in the picture which only for practice purposes. Open new script then place the code in there and click run. Active directory users and computers->mydomain.com->_EMPLOYEES now you can see all the employees generated for this example now just pick one and save there login so you can login with them.
